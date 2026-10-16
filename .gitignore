@@ -34,3 +34,4 @@ analytics-api/storage/*.key
 *.njsproj
 *.sln
 *.sw?
+videos/*.mp4
