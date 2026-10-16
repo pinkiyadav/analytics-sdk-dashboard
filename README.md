@@ -146,12 +146,6 @@ The response includes summary metrics, popular pages, and page-view traffic.
 ### 2. Analytics Data in MySQL
 ![Analytics Events Database](screenshots/analytics-database.png)
 
-## Demo Videos
-
-System demonstration: [(https://drive.google.com/drive/folders/1jNmRqrVdN2KsSDso2XrIZVTYFkAPbuli?usp=sharing)]
-
-Introduction video: [(https://drive.google.com/drive/folders/1jNmRqrVdN2KsSDso2XrIZVTYFkAPbuli?usp=sharing)]
-
 ## Testing
 
 1. Start MySQL.
